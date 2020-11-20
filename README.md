@@ -1,0 +1,3 @@
+# tema4
+LAB4
+para visualizar la solucion del problema 1 se ajustaron las variables correspondientes y se igualaron como lo dice el enunciado. Al ser iguales la media del problema es ceor y por ende su autocorrelación es constante con respecto al tiempo como se observa en la figura.
